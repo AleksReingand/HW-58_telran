@@ -1,10 +1,10 @@
-package telran.persons.creater.model;
+package telran.persons.model;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
-import telran.persons.creater.entities.Person;
-import telran.persons.creater.interfaces.IPersons;
-import telran.persons.creater.repository.PersonsRepository;
+import telran.persons.entities.Person;
+import telran.persons.interfaces.IPersons;
+import telran.persons.repository.PersonsRepository;
 
 public class PersonsCrud implements IPersons {
 

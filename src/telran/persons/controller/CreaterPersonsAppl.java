@@ -1,4 +1,4 @@
-package telran.persons.creater.controller;
+package telran.persons.controller;
 
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
@@ -8,8 +8,8 @@ import java.util.Random;
 import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.FileSystemXmlApplicationContext;
 
-import telran.persons.creater.entities.*;
-import telran.persons.creater.interfaces.IPersons;
+import telran.persons.entities.*;
+import telran.persons.interfaces.IPersons;
 
 public class CreaterPersonsAppl {
 

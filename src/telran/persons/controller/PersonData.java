@@ -1,7 +1,8 @@
-package telran.persons.creater.controller;
+package telran.persons.controller;
+
 
 public class PersonData {
-
+	
 	protected static String[] cities = { "Acre", "Afula", "Arad", "Ariel", "Ashdod", "Ashkelon", "Bat Yam", "Beersheva",
 			"Beit Shean", "Beit Shemesh", "Beitar Illit", "Bnei Brak", "Dimona", "Eilat", "Elad", "Givat Shmuel",
 			"Givatayim", "Hadera", "Haifa", "Herzliya", "Hod HaSharon", "Holon", "Jaffa", "Jerusalem", "Karmiel",

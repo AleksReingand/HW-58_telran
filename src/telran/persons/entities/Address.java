@@ -1,4 +1,4 @@
-package telran.persons.creater.entities;
+package telran.persons.entities;
 
 import java.io.Serializable;
 

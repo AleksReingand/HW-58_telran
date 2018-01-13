@@ -23,7 +23,7 @@
 		<constructor-arg name="databaseName" value="java_aleks" />
 	</bean>
 	<context:annotation-config />
-	<mongo:repositories base-package="telran.persons.creater.repository"></mongo:repositories>
-	<bean class="telran.persons.creater.model.PersonsCrud"></bean>
+	<mongo:repositories base-package="telran.persons.repository"></mongo:repositories>
+	<bean class="telran.persons.model.PersonsCrud"></bean>
 
 </beans>
